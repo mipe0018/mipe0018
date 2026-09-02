@@ -6,6 +6,9 @@ Welcome to my little corner of GitHub!
 
 I'm currently studying Multimediedesign and learning more about web development, UX/UI and digital design.
 
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DITGITHUBBRUGERNAVN&layout=donut&theme=tokyonight)
 
 <!--
 **mipe0018/mipe0018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
