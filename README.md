@@ -6,7 +6,7 @@ Welcome to my little corner of GitHub!
 
 I'm currently studying Multimediedesign and learning more about web development, UX/UI and digital design.
 
-
+<img src="./language-stats.svg" alt="Most Used Languages">
 <!--
 **mipe0018/mipe0018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
