@@ -1,6 +1,6 @@
 ## Hi there I'm Mitzie Petersen!
 
-💻 Multimediedesigner · Web Development · Digital Design
+ Multimediedesign · Web Development · Digital Design 
 
 Welcome to my little corner of GitHub! 
 
