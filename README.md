@@ -1,6 +1,6 @@
 ## Hi there I'm Mitzie Petersen!
 
-💻 Multimediedesigner · Web Development · Digital Design
+ Multimediedesign · Web Development · Digital Design 
 
 Welcome to my little corner of GitHub! 
 
@@ -10,6 +10,7 @@ I'm currently studying Multimediedesign and learning more about web development,
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DITGITHUBBRUGERNAVN&layout=donut&theme=tokyonight)
 
+<img src="./language-stats.svg" alt="Most Used Languages">
 <!--
 **mipe0018/mipe0018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
