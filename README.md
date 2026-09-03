@@ -14,7 +14,7 @@ I'm currently studying Multimediedesign and learning more about web development,
 
 
 <p align="center">
-  <img src="./language-stats.svg" alt="Most Used Languages">
+  <img src="./tools.svg" width="700" alt="My Tech Stack">
 </p>
 
 <!--
