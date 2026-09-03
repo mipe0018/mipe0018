@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="260" viewBox="0 0 500 260">
+
+  <rect width="500" height="260" rx="20" fill="#0d1117"/>
+
+  <text x="30" y="40"
+        fill="#58a6ff"
+        font-size="22"
+        font-family="Arial, sans-serif"
+        font-weight="bold">
+    My Most Used Languages
+  </text>
+
+  <!-- JavaScript -->
+  <text x="30" y="85"
+        fill="#ffffff"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    JavaScript
+  </text>
+
+  <rect x="120" y="72" width="300" height="18" rx="9"
+        fill="#21262d"/>
+
+  <rect x="120" y="72" width="105" height="18" rx="9"
+        fill="#f7df1e"/>
+
+  <text x="435" y="85"
+        fill="#f7df1e"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    35%
+  </text>
+
+
+  <!-- HTML -->
+  <text x="30" y="130"
+        fill="#ffffff"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    HTML
+  </text>
+
+  <rect x="120" y="117" width="300" height="18" rx="9"
+        fill="#21262d"/>
+
+  <rect x="120" y="117" width="150" height="18" rx="9"
+        fill="#e34c26"/>
+
+  <text x="435" y="130"
+        fill="#e34c26"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    50%
+  </text>
+
+
+  <!-- CSS -->
+  <text x="30" y="175"
+        fill="#ffffff"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    CSS
+  </text>
+
+  <rect x="120" y="162" width="300" height="18" rx="9"
+        fill="#21262d"/>
+
+  <rect x="120" y="162" width="210" height="18" rx="9"
+        fill="#1572b6"/>
+
+  <text x="435" y="175"
+        fill="#1572b6"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    70%
+  </text>
+
+
+  <!-- Astro -->
+  <text x="30" y="220"
+        fill="#ffffff"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    Astro
+  </text>
+
+  <rect x="120" y="207" width="300" height="18" rx="9"
+        fill="#21262d"/>
+
+  <rect x="120" y="207" width="120" height="18" rx="9"
+        fill="#ff5d01"/>
+
+  <text x="435" y="220"
+        fill="#ff5d01"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    40%
+  </text>
+
+</svg>
+
