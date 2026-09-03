@@ -1,6 +1,6 @@
-<svg width="500" height="260" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="305" xmlns="http://www.w3.org/2000/svg">
 
-  <rect width="500" height="260" rx="20" fill="#0d1117"/>
+  <rect width="500" height="305" rx="20" fill="#0d1117"/>
 
   <text x="30" y="40"
         fill="#58a6ff"
@@ -9,7 +9,7 @@
         font-weight="bold">
     My Most Used Languages
   </text>
-  
+
   <!-- JavaScript -->
   <text x="30" y="85"
         fill="white"
@@ -18,10 +18,10 @@
     JavaScript
   </text>
 
-  <rect x="120" y="160" width="300" height="18" rx="9"
+  <rect x="120" y="70" width="300" height="18" rx="9"
         fill="#21262d"/>
 
-  <rect x="120" y="160" width="210" height="18" rx="9"
+  <rect x="120" y="70" width="105" height="18" rx="9"
         fill="#58a6ff"/>
 
   <text x="435" y="85"
@@ -62,10 +62,10 @@
     CSS
   </text>
 
-  <rect x="120" y="70" width="300" height="18" rx="9"
+  <rect x="120" y="160" width="300" height="18" rx="9"
         fill="#21262d"/>
 
-  <rect x="120" y="70" width="105" height="18" rx="9"
+  <rect x="120" y="160" width="210" height="18" rx="9"
         fill="#a5d6ff"/>
 
   <text x="435" y="175"
@@ -73,6 +73,28 @@
         font-size="14"
         font-family="Arial">
     70%
+  </text>
+
+
+  <!-- Astro -->
+  <text x="30" y="220"
+        fill="white"
+        font-size="14"
+        font-family="Arial">
+    Astro
+  </text>
+
+  <rect x="120" y="205" width="300" height="18" rx="9"
+        fill="#21262d"/>
+
+  <rect x="120" y="205" width="120" height="18" rx="9"
+        fill="#ff5d01"/>
+
+  <text x="435" y="220"
+        fill="#ff5d01"
+        font-size="14"
+        font-family="Arial">
+    40%
   </text>
 
 </svg>
