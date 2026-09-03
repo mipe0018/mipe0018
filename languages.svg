@@ -1,252 +1,127 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="600"
-     height="470"
-     viewBox="0 0 600 470">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="470" viewBox="0 0 600 470">
 
-  <!-- Background -->
-  <rect width="600" height="470" rx="22" fill="#0d1117"/>
+  <rect width="600" height="470" rx="20" fill="#0d1117"/>
 
-  <!-- Subtle border -->
-  <rect x="1" y="1" width="598" height="468"
-        rx="21"
-        fill="none"
-        stroke="#30363d"/>
-
-  <!-- Header -->
-  <text x="30" y="42"
-        fill="#f0f6fc"
-        font-size="23"
-        font-family="Arial, sans-serif"
-        font-weight="bold">
+  <!-- HEADER -->
+  <text x="30" y="42" fill="#f0f6fc" font-family="Arial" font-size="23" font-weight="bold">
     My Web Development Stack
   </text>
 
-  <text x="30" y="66"
-        fill="#8b949e"
-        font-size="13"
-        font-family="Arial, sans-serif">
-    Technologies &amp; tools I use
+  <text x="30" y="66" fill="#8b949e" font-family="Arial" font-size="13">
+    Technologies and tools I use
   </text>
 
-  <!-- Decorative line -->
-  <rect x="30" y="82" width="540" height="1"
-        fill="#21262d"/>
+  <rect x="30" y="82" width="540" height="1" fill="#21262d"/>
 
 
-  <!-- ============================= -->
-  <!-- LANGUAGES & WEB -->
-  <!-- ============================= -->
+  <!-- DEVELOPMENT -->
 
-  <text x="30" y="110"
-        fill="#58a6ff"
-        font-size="11"
-        font-family="Arial, sans-serif"
-        font-weight="bold"
-        letter-spacing="1">
+  <text x="30" y="110" fill="#58a6ff" font-family="Arial" font-size="11" font-weight="bold">
     LANGUAGES &amp; WEB
   </text>
 
-
   <!-- JavaScript -->
-  <text x="30" y="140"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Arial, sans-serif">
+  <text x="30" y="140" fill="#ffffff" font-family="Arial" font-size="14">
     JavaScript
   </text>
 
-  <rect x="125" y="128" width="330" height="16"
-        rx="8" fill="#21262d"/>
+  <rect x="125" y="128" width="330" height="16" rx="8" fill="#21262d"/>
+  <rect x="125" y="128" width="122" height="16" rx="8" fill="#f7df1e"/>
 
-  <rect x="125" y="128" width="122" height="16"
-        rx="8" fill="#f7df1e"/>
-
-  <text x="470" y="141"
-        fill="#f7df1e"
-        font-size="13"
-        font-family="Arial, sans-serif"
-        font-weight="bold">
+  <text x="470" y="141" fill="#f7df1e" font-family="Arial" font-size="13" font-weight="bold">
     37%
   </text>
 
 
   <!-- HTML -->
-  <text x="30" y="172"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Arial, sans-serif">
+  <text x="30" y="172" fill="#ffffff" font-family="Arial" font-size="14">
     HTML
   </text>
 
-  <rect x="125" y="160" width="330" height="16"
-        rx="8" fill="#21262d"/>
+  <rect x="125" y="160" width="330" height="16" rx="8" fill="#21262d"/>
+  <rect x="125" y="160" width="172" height="16" rx="8" fill="#e34c26"/>
 
-  <rect x="125" y="160" width="172" height="16"
-        rx="8" fill="#e34c26"/>
-
-  <text x="470" y="173"
-        fill="#e34c26"
-        font-size="13"
-        font-family="Arial, sans-serif"
-        font-weight="bold">
+  <text x="470" y="173" fill="#e34c26" font-family="Arial" font-size="13" font-weight="bold">
     52%
   </text>
 
 
   <!-- CSS -->
-  <text x="30" y="204"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Arial, sans-serif">
+  <text x="30" y="204" fill="#ffffff" font-family="Arial" font-size="14">
     CSS
   </text>
 
-  <rect x="125" y="192" width="330" height="16"
-        rx="8" fill="#21262d"/>
+  <rect x="125" y="192" width="330" height="16" rx="8" fill="#21262d"/>
+  <rect x="125" y="192" width="224" height="16" rx="8" fill="#1572b6"/>
 
-  <rect x="125" y="192" width="224" height="16"
-        rx="8" fill="#1572b6"/>
-
-  <text x="470" y="205"
-        fill="#1572b6"
-        font-size="13"
-        font-family="Arial, sans-serif"
-        font-weight="bold">
+  <text x="470" y="205" fill="#1572b6" font-family="Arial" font-size="13" font-weight="bold">
     68%
   </text>
 
 
   <!-- JSON -->
-  <text x="30" y="236"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Arial, sans-serif">
+  <text x="30" y="236" fill="#ffffff" font-family="Arial" font-size="14">
     JSON
   </text>
 
-  <rect x="125" y="224" width="330" height="16"
-        rx="8" fill="#21262d"/>
+  <rect x="125" y="224" width="330" height="16" rx="8" fill="#21262d"/>
+  <rect x="125" y="224" width="46" height="16" rx="8" fill="#8b949e"/>
 
-  <rect x="125" y="224" width="46" height="16"
-        rx="8" fill="#8b949e"/>
-
-  <text x="470" y="237"
-        fill="#8b949e"
-        font-size="13"
-        font-family="Arial, sans-serif"
-        font-weight="bold">
+  <text x="470" y="237" fill="#8b949e" font-family="Arial" font-size="13" font-weight="bold">
     14%
   </text>
 
 
-  <!-- ============================= -->
-  <!-- FRAMEWORK & RUNTIME -->
-  <!-- ============================= -->
+  <!-- FRAMEWORK -->
 
-  <text x="30" y="273"
-        fill="#ff7b00"
-        font-size="11"
-        font-family="Arial, sans-serif"
-        font-weight="bold"
-        letter-spacing="1">
+  <text x="30" y="273" fill="#ff7b00" font-family="Arial" font-size="11" font-weight="bold">
     FRAMEWORK &amp; RUNTIME
   </text>
 
-
   <!-- Astro -->
-  <text x="30" y="303"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Arial, sans-serif">
+  <text x="30" y="303" fill="#ffffff" font-family="Arial" font-size="14">
     Astro
   </text>
 
-  <rect x="125" y="291" width="330" height="16"
-        rx="8" fill="#21262d"/>
+  <rect x="125" y="291" width="330" height="16" rx="8" fill="#21262d"/>
+  <rect x="125" y="291" width="73" height="16" rx="8" fill="#ff5d01"/>
 
-  <rect x="125" y="291" width="73" height="16"
-        rx="8" fill="#ff5d01"/>
-
-  <text x="470" y="304"
-        fill="#ff5d01"
-        font-size="13"
-        font-family="Arial, sans-serif"
-        font-weight="bold">
+  <text x="470" y="304" fill="#ff5d01" font-family="Arial" font-size="13" font-weight="bold">
     22%
   </text>
 
 
   <!-- Node.js -->
-  <text x="30" y="335"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Arial, sans-serif">
+  <text x="30" y="335" fill="#ffffff" font-family="Arial" font-size="14">
     Node.js
   </text>
 
-  <rect x="125" y="323" width="330" height="16"
-        rx="8" fill="#21262d"/>
+  <rect x="125" y="323" width="330" height="16" rx="8" fill="#21262d"/>
+  <rect x="125" y="323" width="56" height="16" rx="8" fill="#339933"/>
 
-  <rect x="125" y="323" width="56" height="16"
-        rx="8" fill="#339933"/>
-
-  <text x="470" y="336"
-        fill="#339933"
-        font-size="13"
-        font-family="Arial, sans-serif"
-        font-weight="bold">
+  <text x="470" y="336" fill="#339933" font-family="Arial" font-size="13" font-weight="bold">
     17%
   </text>
 
 
-  <!-- ============================= -->
   <!-- TOOLING -->
-  <!-- ============================= -->
 
-  <text x="30" y="372"
-        fill="#a371f7"
-        font-size="11"
-        font-family="Arial, sans-serif"
-        font-weight="bold"
-        letter-spacing="1">
+  <text x="30" y="372" fill="#a371f7" font-family="Arial" font-size="11" font-weight="bold">
     TOOLING
   </text>
 
-
   <!-- npm -->
-  <text x="30" y="402"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Arial, sans-serif">
+  <text x="30" y="402" fill="#ffffff" font-family="Arial" font-size="14">
     npm
   </text>
 
-  <rect x="125" y="390" width="330" height="16"
-        rx="8" fill="#21262d"/>
+  <rect x="125" y="390" width="330" height="16" rx="8" fill="#21262d"/>
+  <rect x="125" y="390" width="89" height="16" rx="8" fill="#cb3837"/>
 
-  <rect x="125" y="390" width="89" height="16"
-        rx="8" fill="#cb3837"/>
-
-  <text x="470" y="403"
-        fill="#cb3837"
-        font-size="13"
-        font-family="Arial, sans-serif"
-        font-weight="bold">
+  <text x="470" y="403" fill="#cb3837" font-family="Arial" font-size="13" font-weight="bold">
     27%
   </text>
 
-
-  <!-- Footer -->
-  <text x="30" y="445"
-        fill="#484f58"
-        font-size="11"
-        font-family="Arial, sans-serif">
-    Web • Frontend • Tooling
-  </text>
-
-  <circle cx="550" cy="441" r="4" fill="#58a6ff"/>
-  <circle cx="563" cy="441" r="4" fill="#a371f7"/>
-  <circle cx="576" cy="441" r="4" fill="#3fb950"/>
-
 </svg>
+
 
