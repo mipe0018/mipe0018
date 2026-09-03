@@ -1,14 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="760"
-     height="460"
-     viewBox="0 0 760 460">
+     height="470"
+     viewBox="0 0 760 470">
 
   <!-- BACKGROUND -->
-  <rect width="760" height="460" rx="24" fill="#0d1117"/>
+  <rect width="760" height="470" rx="24" fill="#0d1117"/>
 
   <rect x="1" y="1"
-        width="758"
-        height="458"
+        width="758" height="468"
         rx="23"
         fill="none"
         stroke="#30363d"/>
@@ -30,27 +29,27 @@
         fill="#8b949e"
         font-family="Arial, sans-serif"
         font-size="13">
-    A human-centred approach to design
+    My approach to UX, digital design &amp; web development
   </text>
 
 
   <!-- PROCESS LABELS -->
 
-  <text x="190" y="108"
+  <text x="190" y="105"
         text-anchor="middle"
         fill="#58a6ff"
         font-family="Arial, sans-serif"
-        font-size="11"
+        font-size="10"
         font-weight="bold"
         letter-spacing="1">
     EXPLORE
   </text>
 
-  <text x="570" y="108"
+  <text x="570" y="105"
         text-anchor="middle"
         fill="#f78166"
         font-family="Arial, sans-serif"
-        font-size="11"
+        font-size="10"
         font-weight="bold"
         letter-spacing="1">
     CREATE
@@ -59,50 +58,114 @@
 
   <!-- FIRST DIAMOND -->
 
-  <!-- Full diamond -->
   <polygon
-    points="45,190 190,125 335,190 190,255"
+    points="45,175 190,115 335,175 190,235"
     fill="#161b22"
-    stroke="#30363d"
+    stroke="#58a6ff"
     stroke-width="2"/>
 
-  <!-- Discover side -->
   <polygon
-    points="45,190 190,125 190,255"
+    points="45,175 190,115 190,235"
     fill="#58a6ff"
     opacity="0.12"/>
 
-  <!-- Define side -->
   <polygon
-    points="190,125 335,190 190,255"
+    points="190,115 335,175 190,235"
     fill="#a371f7"
     opacity="0.12"/>
 
-  <!-- Center -->
-  <line x1="190" y1="125"
-        x2="190" y2="255"
+  <line x1="190" y1="115"
+        x2="190" y2="235"
         stroke="#30363d"
         stroke-width="2"/>
 
 
-  <!-- DISCOVER -->
+  <!-- DISCOVER NUMBER -->
 
-  <circle cx="125" cy="190"
-          r="27"
-          fill="#0d1117"
-          stroke="#58a6ff"
-          stroke-width="2"/>
-
-  <text x="125" y="194"
+  <text x="125" y="181"
         text-anchor="middle"
         fill="#58a6ff"
         font-family="Arial, sans-serif"
-        font-size="11"
+        font-size="13"
         font-weight="bold">
     01
   </text>
 
-  <text x="125" y="287"
+
+  <!-- DEFINE NUMBER -->
+
+  <text x="255" y="181"
+        text-anchor="middle"
+        fill="#a371f7"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        font-weight="bold">
+    02
+  </text>
+
+
+  <!-- SECOND DIAMOND -->
+
+  <polygon
+    points="425,175 570,115 715,175 570,235"
+    fill="#161b22"
+    stroke="#f78166"
+    stroke-width="2"/>
+
+  <polygon
+    points="425,175 570,115 570,235"
+    fill="#f78166"
+    opacity="0.12"/>
+
+  <polygon
+    points="570,115 715,175 570,235"
+    fill="#3fb950"
+    opacity="0.12"/>
+
+  <line x1="570" y1="115"
+        x2="570" y2="235"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+
+  <!-- DEVELOP NUMBER -->
+
+  <text x="505" y="181"
+        text-anchor="middle"
+        fill="#f78166"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        font-weight="bold">
+    03
+  </text>
+
+
+  <!-- DELIVER NUMBER -->
+
+  <text x="635" y="181"
+        text-anchor="middle"
+        fill="#3fb950"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        font-weight="bold">
+    04
+  </text>
+
+
+  <!-- ARROW -->
+
+  <line x1="335" y1="175"
+        x2="425" y2="175"
+        stroke="#484f58"
+        stroke-width="2"/>
+
+  <polygon points="425,175 414,169 414,181"
+           fill="#484f58"/>
+
+
+  <!-- TITLES -->
+
+  <text x="125" y="270"
         text-anchor="middle"
         fill="#f0f6fc"
         font-family="Arial, sans-serif"
@@ -111,33 +174,7 @@
     Discover
   </text>
 
-  <text x="125" y="305"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-family="Arial, sans-serif"
-        font-size="10">
-    Research · Users · Insights
-  </text>
-
-
-  <!-- DEFINE -->
-
-  <circle cx="255" cy="190"
-          r="27"
-          fill="#0d1117"
-          stroke="#a371f7"
-          stroke-width="2"/>
-
-  <text x="255" y="194"
-        text-anchor="middle"
-        fill="#a371f7"
-        font-family="Arial, sans-serif"
-        font-size="11"
-        font-weight="bold">
-    02
-  </text>
-
-  <text x="255" y="287"
+  <text x="255" y="270"
         text-anchor="middle"
         fill="#f0f6fc"
         font-family="Arial, sans-serif"
@@ -146,72 +183,7 @@
     Define
   </text>
 
-  <text x="255" y="305"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-family="Arial, sans-serif"
-        font-size="10">
-    Problem · Goals · Direction
-  </text>
-
-
-  <!-- ARROW -->
-
-  <line x1="335" y1="190"
-        x2="425" y2="190"
-        stroke="#484f58"
-        stroke-width="2"/>
-
-  <polygon
-    points="425,190 414,184 414,196"
-    fill="#484f58"/>
-
-
-  <!-- SECOND DIAMOND -->
-
-  <polygon
-    points="425,190 570,125 715,190 570,255"
-    fill="#161b22"
-    stroke="#30363d"
-    stroke-width="2"/>
-
-  <!-- Develop side -->
-  <polygon
-    points="425,190 570,125 570,255"
-    fill="#f78166"
-    opacity="0.12"/>
-
-  <!-- Deliver side -->
-  <polygon
-    points="570,125 715,190 570,255"
-    fill="#3fb950"
-    opacity="0.12"/>
-
-  <!-- Center -->
-  <line x1="570" y1="125"
-        x2="570" y2="255"
-        stroke="#30363d"
-        stroke-width="2"/>
-
-
-  <!-- DEVELOP -->
-
-  <circle cx="505" cy="190"
-          r="27"
-          fill="#0d1117"
-          stroke="#f78166"
-          stroke-width="2"/>
-
-  <text x="505" y="194"
-        text-anchor="middle"
-        fill="#f78166"
-        font-family="Arial, sans-serif"
-        font-size="11"
-        font-weight="bold">
-    03
-  </text>
-
-  <text x="505" y="287"
+  <text x="505" y="270"
         text-anchor="middle"
         fill="#f0f6fc"
         font-family="Arial, sans-serif"
@@ -220,33 +192,7 @@
     Develop
   </text>
 
-  <text x="505" y="305"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-family="Arial, sans-serif"
-        font-size="10">
-    Ideas · Prototype · Test
-  </text>
-
-
-  <!-- DELIVER -->
-
-  <circle cx="635" cy="190"
-          r="27"
-          fill="#0d1117"
-          stroke="#3fb950"
-          stroke-width="2"/>
-
-  <text x="635" y="194"
-        text-anchor="middle"
-        fill="#3fb950"
-        font-family="Arial, sans-serif"
-        font-size="11"
-        font-weight="bold">
-    04
-  </text>
-
-  <text x="635" y="287"
+  <text x="635" y="270"
         text-anchor="middle"
         fill="#f0f6fc"
         font-family="Arial, sans-serif"
@@ -255,26 +201,96 @@
     Deliver
   </text>
 
-  <text x="635" y="305"
+
+  <!-- DESCRIPTIONS -->
+
+  <!-- DISCOVER -->
+
+  <text x="125" y="292"
         text-anchor="middle"
         fill="#8b949e"
         font-family="Arial, sans-serif"
         font-size="10">
-    Solution · Feedback · Launch
+    Research the users
+  </text>
+
+  <text x="125" y="308"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Find needs &amp; insights
+  </text>
+
+
+  <!-- DEFINE -->
+
+  <text x="255" y="292"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Identify the problem
+  </text>
+
+  <text x="255" y="308"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Set goals &amp; direction
+  </text>
+
+
+  <!-- DEVELOP -->
+
+  <text x="505" y="292"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Explore different ideas
+  </text>
+
+  <text x="505" y="308"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Prototype &amp; experiment
+  </text>
+
+
+  <!-- DELIVER -->
+
+  <text x="635" y="292"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Test the solution
+  </text>
+
+  <text x="635" y="308"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Launch &amp; improve
   </text>
 
 
   <!-- DIVIDER -->
 
-  <line x1="80" y1="345"
-        x2="680" y2="345"
+  <line x1="80" y1="340"
+        x2="680" y2="340"
         stroke="#21262d"
         stroke-width="1"/>
 
 
-  <!-- DIVERGE / CONVERGE -->
+  <!-- DIVERGE -->
 
-  <text x="190" y="372"
+  <text x="190" y="369"
         text-anchor="middle"
         fill="#58a6ff"
         font-family="Arial, sans-serif"
@@ -284,16 +300,18 @@
     DIVERGE
   </text>
 
-  <text x="190" y="391"
+  <text x="190" y="388"
         text-anchor="middle"
         fill="#8b949e"
         font-family="Arial, sans-serif"
         font-size="10">
-    Explore possibilities
+    Open up possibilities
   </text>
 
 
-  <text x="570" y="372"
+  <!-- CONVERGE -->
+
+  <text x="570" y="369"
         text-anchor="middle"
         fill="#3fb950"
         font-family="Arial, sans-serif"
@@ -303,25 +321,26 @@
     CONVERGE
   </text>
 
-  <text x="570" y="391"
+  <text x="570" y="388"
         text-anchor="middle"
         fill="#8b949e"
         font-family="Arial, sans-serif"
         font-size="10">
-    Choose what works
+    Focus on what works
   </text>
 
 
-  <!-- FOOTER -->
+  <!-- BOTTOM STATEMENT -->
 
-  <text x="380" y="430"
+  <text x="380" y="425"
         text-anchor="middle"
-        fill="#484f58"
+        fill="#f0f6fc"
         font-family="Arial, sans-serif"
-        font-size="10">
-    Research → Define → Design → Test → Improve
+        font-size="11">
+    Understand → Define → Explore → Test → Refine
   </text>
 
 </svg>
+
 
 
