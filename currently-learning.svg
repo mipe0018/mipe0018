@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="600"
+     height="260"
+     viewBox="0 0 600 260">
+
+  <!-- Background -->
+  <rect width="600" height="260" rx="22" fill="#0d1117"/>
+
+  <!-- Border -->
+  <rect x="1" y="1"
+        width="598"
+        height="258"
+        rx="21"
+        fill="none"
+        stroke="#30363d"/>
+
+  <!-- Header -->
+  <text x="30" y="42"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="23"
+        font-weight="bold">
+    Currently Learning
+  </text>
+
+  <text x="30" y="66"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="13">
+    Things I'm exploring and improving
+  </text>
+
+  <!-- Divider -->
+  <rect x="30" y="82"
+        width="540"
+        height="1"
+        fill="#21262d"/>
+
+
+  <!-- JAVASCRIPT -->
+  <rect x="30" y="102"
+        width="170"
+        height="58"
+        rx="12"
+        fill="#161b22"
+        stroke="#30363d"/>
+
+  <rect x="42" y="114"
+        width="34"
+        height="34"
+        rx="8"
+        fill="#f7df1e"/>
+
+  <text x="52" y="137"
+        fill="#111111"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        font-weight="bold">
+    JS
+  </text>
+
+  <text x="88" y="130"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        font-weight="bold">
+    JavaScript
+  </text>
+
+  <text x="88" y="148"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Development
+  </text>
+
+
+  <!-- ASTRO -->
+  <rect x="215" y="102"
+        width="170"
+        height="58"
+        rx="12"
+        fill="#161b22"
+        stroke="#30363d"/>
+
+  <rect x="227" y="114"
+        width="34"
+        height="34"
+        rx="8"
+        fill="#ff5d01"/>
+
+  <text x="237" y="137"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        font-weight="bold">
+    A
+  </text>
+
+  <text x="273" y="130"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        font-weight="bold">
+    Astro
+  </text>
+
+  <text x="273" y="148"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Framework
+  </text>
+
+
+  <!-- UX/UI -->
+  <rect x="400" y="102"
+        width="170"
+        height="58"
+        rx="12"
+        fill="#161b22"
+        stroke="#30363d"/>
+
+  <rect x="412" y="114"
+        width="34"
+        height="34"
+        rx="8"
+        fill="#a371f7"/>
+
+  <text x="419" y="137"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="11"
+        font-weight="bold">
+    UI
+  </text>
+
+  <text x="458" y="130"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        font-weight="bold">
+    UX / UI
+  </text>
+
+  <text x="458" y="148"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Digital Design
+  </text>
+
+
+  <!-- BOTTOM ITEMS -->
+
+  <!-- 3D -->
+  <rect x="30" y="178"
+        width="170"
+        height="48"
+        rx="12"
+        fill="#161b22"
+        stroke="#30363d"/>
+
+  <circle cx="54" cy="202"
+          r="14"
+          fill="#e87d0d"/>
+
+  <text x="48" y="207"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="11"
+        font-weight="bold">
+    3D
+  </text>
+
+  <text x="78" y="207"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        font-weight="bold">
+    3D Modeling
+  </text>
+
+
+  <!-- NODE -->
+  <rect x="215" y="178"
+        width="170"
+        height="48"
+        rx="12"
+        fill="#161b22"
+        stroke="#30363d"/>
+
+  <circle cx="239" cy="202"
+          r="14"
+          fill="#339933"/>
+
+  <text x="230" y="207"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="9"
+        font-weight="bold">
+    N
+  </text>
+
+  <text x="263" y="207"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        font-weight="bold">
+    Node.js
+  </text>
+
+
+  <!-- CREATIVE -->
+  <rect x="400" y="178"
+        width="170"
+        height="48"
+        rx="12"
+        fill="#161b22"
+        stroke="#30363d"/>
+
+  <circle cx="424" cy="202"
+          r="14"
+          fill="#ff4f00"/>
+
+  <text x="417" y="207"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="10"
+        font-weight="bold">
+    CC
+  </text>
+
+  <text x="448" y="207"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        font-weight="bold">
+    Creative Tools
+  </text>
+
+</svg>
