@@ -1,0 +1,387 @@
+ChatGPT sagde:
+Ja — her er en færdig double-diamond.svg, lavet i samme mørke GitHub-stil som dine andre widgets, men med selve Double Diamond-metoden som det visuelle fokus.
+
+Den bruger ingen eksterne billeder eller <image>-elementer, så den bør være sikker at vise direkte på GitHub.
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="760"
+     height="430"
+     viewBox="0 0 760 430">
+
+  <defs>
+
+    <!-- Gradients -->
+    <linearGradient id="discover" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#79c0ff"/>
+    </linearGradient>
+
+    <linearGradient id="define" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a371f7"/>
+      <stop offset="100%" stop-color="#d2a8ff"/>
+    </linearGradient>
+
+    <linearGradient id="develop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f78166"/>
+      <stop offset="100%" stop-color="#ff9b70"/>
+    </linearGradient>
+
+    <linearGradient id="deliver" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3fb950"/>
+      <stop offset="100%" stop-color="#56d364"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glowBlue">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowPurple">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+
+  <!-- BACKGROUND -->
+
+  <rect width="760"
+        height="430"
+        rx="24"
+        fill="#0d1117"/>
+
+  <rect x="1"
+        y="1"
+        width="758"
+        height="428"
+        rx="23"
+        fill="none"
+        stroke="#30363d"/>
+
+
+  <!-- HEADER -->
+
+  <text x="36"
+        y="45"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="bold">
+    Double Diamond
+  </text>
+
+  <text x="36"
+        y="69"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="13">
+    My approach to design, problem solving &amp; development
+  </text>
+
+
+  <!-- TOP LABELS -->
+
+  <text x="205"
+        y="108"
+        text-anchor="middle"
+        fill="#58a6ff"
+        font-family="Arial, sans-serif"
+        font-size="11"
+        font-weight="bold">
+    EXPLORE
+  </text>
+
+  <text x="555"
+        y="108"
+        text-anchor="middle"
+        fill="#f78166"
+        font-family="Arial, sans-serif"
+        font-size="11"
+        font-weight="bold">
+    CREATE
+  </text>
+
+
+  <!-- FIRST DIAMOND -->
+
+  <!-- Outer diamond -->
+  <polygon
+      points="55,180 205,115 355,180 205,245"
+      fill="#161b22"
+      stroke="#30363d"
+      stroke-width="2"/>
+
+  <!-- Discover area -->
+  <polygon
+      points="55,180 205,115 205,180 205,245"
+      fill="url(#discover)"
+      opacity="0.14"/>
+
+  <!-- Define area -->
+  <polygon
+      points="205,115 355,180 205,245 205,180"
+      fill="url(#define)"
+      opacity="0.14"/>
+
+
+  <!-- FIRST CENTER LINE -->
+
+  <line x1="205"
+        y1="115"
+        x2="205"
+        y2="245"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+
+  <!-- DISCOVER -->
+
+  <circle cx="135"
+          cy="180"
+          r="25"
+          fill="#0d1117"
+          stroke="#58a6ff"
+          stroke-width="2"
+          filter="url(#glowBlue)"/>
+
+  <text x="135"
+        y="184"
+        text-anchor="middle"
+        fill="#58a6ff"
+        font-family="Arial, sans-serif"
+        font-size="10"
+        font-weight="bold">
+    01
+  </text>
+
+  <text x="135"
+        y="218"
+        text-anchor="middle"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        font-weight="bold">
+    Discover
+  </text>
+
+  <text x="135"
+        y="235"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Research · Users
+  </text>
+
+
+  <!-- DEFINE -->
+
+  <circle cx="275"
+          cy="180"
+          r="25"
+          fill="#0d1117"
+          stroke="#a371f7"
+          stroke-width="2"
+          filter="url(#glowPurple)"/>
+
+  <text x="275"
+        y="184"
+        text-anchor="middle"
+        fill="#a371f7"
+        font-family="Arial, sans-serif"
+        font-size="10"
+        font-weight="bold">
+    02
+  </text>
+
+  <text x="275"
+        y="218"
+        text-anchor="middle"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        font-weight="bold">
+    Define
+  </text>
+
+  <text x="275"
+        y="235"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Problem · Direction
+  </text>
+
+
+  <!-- SECOND DIAMOND -->
+
+  <polygon
+      points="405,180 555,115 705,180 555,245"
+      fill="#161b22"
+      stroke="#30363d"
+      stroke-width="2"/>
+
+  <!-- Develop area -->
+  <polygon
+      points="405,180 555,115 555,180 555,245"
+      fill="url(#develop)"
+      opacity="0.14"/>
+
+  <!-- Deliver area -->
+  <polygon
+      points="555,115 705,180 555,245 555,180"
+      fill="url(#deliver)"
+      opacity="0.14"/>
+
+
+  <!-- SECOND CENTER LINE -->
+
+  <line x1="555"
+        y1="115"
+        x2="555"
+        y2="245"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+
+  <!-- DEVELOP -->
+
+  <circle cx="485"
+          cy="180"
+          r="25"
+          fill="#0d1117"
+          stroke="#f78166"
+          stroke-width="2"/>
+
+  <text x="485"
+        y="184"
+        text-anchor="middle"
+        fill="#f78166"
+        font-family="Arial, sans-serif"
+        font-size="10"
+        font-weight="bold">
+    03
+  </text>
+
+  <text x="485"
+        y="218"
+        text-anchor="middle"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        font-weight="bold">
+    Develop
+  </text>
+
+  <text x="485"
+        y="235"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Ideas · Prototype
+  </text>
+
+
+  <!-- DELIVER -->
+
+  <circle cx="625"
+          cy="180"
+          r="25"
+          fill="#0d1117"
+          stroke="#3fb950"
+          stroke-width="2"/>
+
+  <text x="625"
+        y="184"
+        text-anchor="middle"
+        fill="#3fb950"
+        font-family="Arial, sans-serif"
+        font-size="10"
+        font-weight="bold">
+    04
+  </text>
+
+  <text x="625"
+        y="218"
+        text-anchor="middle"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="14"
+        font-weight="bold">
+    Deliver
+  </text>
+
+  <text x="625"
+        y="235"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Test · Launch
+  </text>
+
+
+  <!-- CONNECTING ARROW -->
+
+  <line x1="355"
+        y1="180"
+        x2="405"
+        y2="180"
+        stroke="#484f58"
+        stroke-width="2"/>
+
+  <polygon
+      points="405,180 397,175 397,185"
+      fill="#484f58"/>
+
+
+  <!-- BOTTOM PROCESS -->
+
+  <rect x="110"
+        y="290"
+        width="540"
+        height="1"
+        fill="#21262d"/>
+
+  <text x="380"
+        y="318"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="11">
+    Diverge
+  </text>
+
+  <text x="380"
+        y="338"
+        text-anchor="middle"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="13"
+        font-weight="bold">
+    Explore widely → focus → explore solutions → focus on what works
+  </text>
+
+
+  <!-- FOOTER -->
+
+  <text x="380"
+        y="385"
+        text-anchor="middle"
+        fill="#484f58"
+        font-family="Arial, sans-serif"
+        font-size="10">
+    Research · Define · Design · Prototype · Test · Improve
+  </text>
+
+</svg>
