@@ -8,10 +8,13 @@ I'm currently studying Multimediedesign and learning more about web development,
 
 
 
+## My Most Used Languages
+
 <p align="center">
-  <img src="./programs-used.svg" width="700" alt="My Tech Stack">
+  <img src="./languages.svg" width="500" alt="My Most Used Languages">
 </p>
 
+## My Tech Stack
 
 <p align="center">
   <img src="./tools.svg" width="700" alt="My Tech Stack">
