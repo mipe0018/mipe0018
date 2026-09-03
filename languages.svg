@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="260" viewBox="0 0 500 260">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="500"
+     height="395"
+     viewBox="0 0 500 395">
 
-  <rect width="500" height="260" rx="20" fill="#0d1117"/>
+  <rect width="500" height="395" rx="20" fill="#0d1117"/>
 
   <text x="30" y="40"
         fill="#58a6ff"
@@ -10,92 +13,160 @@
     My Most Used Languages
   </text>
 
-  <!-- JavaScript -->
-  <text x="30" y="85"
+
+  <!-- JavaScript - 37% -->
+  <text x="30" y="82"
         fill="#ffffff"
         font-size="14"
         font-family="Arial, sans-serif">
     JavaScript
   </text>
 
-  <rect x="120" y="72" width="300" height="18" rx="9"
-        fill="#21262d"/>
+  <rect x="120" y="69" width="300" height="18"
+        rx="9" fill="#21262d"/>
 
-  <rect x="120" y="72" width="105" height="18" rx="9"
-        fill="#f7df1e"/>
+  <rect x="120" y="69" width="111" height="18"
+        rx="9" fill="#f7df1e"/>
 
-  <text x="435" y="85"
+  <text x="435" y="82"
         fill="#f7df1e"
         font-size="14"
         font-family="Arial, sans-serif">
-    35%
+    37%
   </text>
 
 
-  <!-- HTML -->
-  <text x="30" y="130"
+  <!-- HTML - 52% -->
+  <text x="30" y="127"
         fill="#ffffff"
         font-size="14"
         font-family="Arial, sans-serif">
     HTML
   </text>
 
-  <rect x="120" y="117" width="300" height="18" rx="9"
-        fill="#21262d"/>
+  <rect x="120" y="114" width="300" height="18"
+        rx="9" fill="#21262d"/>
 
-  <rect x="120" y="117" width="150" height="18" rx="9"
-        fill="#e34c26"/>
+  <rect x="120" y="114" width="156" height="18"
+        rx="9" fill="#e34c26"/>
 
-  <text x="435" y="130"
+  <text x="435" y="127"
         fill="#e34c26"
         font-size="14"
         font-family="Arial, sans-serif">
-    50%
+    52%
   </text>
 
 
-  <!-- CSS -->
-  <text x="30" y="175"
+  <!-- CSS - 68% -->
+  <text x="30" y="172"
         fill="#ffffff"
         font-size="14"
         font-family="Arial, sans-serif">
     CSS
   </text>
 
-  <rect x="120" y="162" width="300" height="18" rx="9"
-        fill="#21262d"/>
+  <rect x="120" y="159" width="300" height="18"
+        rx="9" fill="#21262d"/>
 
-  <rect x="120" y="162" width="210" height="18" rx="9"
-        fill="#1572b6"/>
+  <rect x="120" y="159" width="204" height="18"
+        rx="9" fill="#1572b6"/>
 
-  <text x="435" y="175"
+  <text x="435" y="172"
         fill="#1572b6"
         font-size="14"
         font-family="Arial, sans-serif">
-    70%
+    68%
   </text>
 
 
-  <!-- Astro -->
-  <text x="30" y="220"
+  <!-- Astro - 22% -->
+  <text x="30" y="217"
         fill="#ffffff"
         font-size="14"
         font-family="Arial, sans-serif">
     Astro
   </text>
 
-  <rect x="120" y="207" width="300" height="18" rx="9"
-        fill="#21262d"/>
+  <rect x="120" y="204" width="300" height="18"
+        rx="9" fill="#21262d"/>
 
-  <rect x="120" y="207" width="60" height="18" rx="9"
-        fill="#ff5d01"/>
+  <rect x="120" y="204" width="66" height="18"
+        rx="9" fill="#ff5d01"/>
 
-  <text x="435" y="220"
+  <text x="435" y="217"
         fill="#ff5d01"
         font-size="14"
         font-family="Arial, sans-serif">
-    20%
+    22%
+  </text>
+
+
+  <!-- Node.js - 17% -->
+  <text x="30" y="262"
+        fill="#ffffff"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    Node.js
+  </text>
+
+  <rect x="120" y="249" width="300" height="18"
+        rx="9" fill="#21262d"/>
+
+  <rect x="120" y="249" width="51" height="18"
+        rx="9" fill="#339933"/>
+
+  <text x="435" y="262"
+        fill="#339933"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    17%
+  </text>
+
+
+  <!-- npm - 27% -->
+  <text x="30" y="307"
+        fill="#ffffff"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    npm
+  </text>
+
+  <rect x="120" y="294" width="300" height="18"
+        rx="9" fill="#21262d"/>
+
+  <rect x="120" y="294" width="81" height="18"
+        rx="9" fill="#cb3837"/>
+
+  <text x="435" y="307"
+        fill="#cb3837"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    27%
+  </text>
+
+
+  <!-- JSON - 14% -->
+  <text x="30" y="352"
+        fill="#ffffff"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    JSON
+  </text>
+
+  <rect x="120" y="339" width="300" height="18"
+        rx="9" fill="#21262d"/>
+
+  <rect x="120" y="339" width="42" height="18"
+        rx="9" fill="#f1d400"/>
+
+  <text x="435" y="352"
+        fill="#f1d400"
+        font-size="14"
+        font-family="Arial, sans-serif">
+    14%
   </text>
 
 </svg>
+
 
