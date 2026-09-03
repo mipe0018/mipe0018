@@ -12,6 +12,14 @@ I'm currently studying Multimediedesign and learning more about web development,
   <img src="./languages.svg" width="500" alt="My Most Used Languages">
 </p>
 
+## My Design Process
+
+<p align="center">
+  <img src="./double-diamond.svg"
+       width="760"
+       alt="Double Diamond Design Process">
+</p>
+
 ## My Tech Stack
 
 <p align="center">
