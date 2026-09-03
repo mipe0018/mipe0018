@@ -110,17 +110,34 @@
     TOOLING
   </text>
 
-  <!-- npm -->
-  <text x="30" y="402" fill="#ffffff" font-family="Arial" font-size="14">
-    npm
-  </text>
+<!-- NPM -->
+<text x="30" y="402"
+      fill="#ffffff"
+      font-family="Arial, sans-serif"
+      font-size="14">
+  npm
+</text>
 
-  <rect x="125" y="390" width="330" height="16" rx="8" fill="#21262d"/>
-  <rect x="125" y="390" width="89" height="16" rx="8" fill="#cb3837"/>
+<rect x="125" y="390"
+      width="330"
+      height="16"
+      rx="8"
+      fill="#21262d"/>
 
-  <text x="470" y="403" fill="#cb3837" font-family="Arial" font-size="13" font-weight="bold">
-    27%
-  </text>
+<rect x="125" y="390"
+      width="57"
+      height="16"
+      rx="8"
+      fill="#cb3837"/>
+
+<text x="470" y="403"
+      fill="#cb3837"
+      font-family="Arial, sans-serif"
+      font-size="13"
+      font-weight="bold">
+  19%
+</text>
+
 
 </svg>
 
