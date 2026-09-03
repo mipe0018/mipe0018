@@ -1,99 +1,320 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="390" viewBox="0 0 700 390">
-  <rect width="700" height="390" rx="20" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="680" viewBox="0 0 760 680">
 
-  <text x="35" y="45" fill="#58a6ff" font-size="23"
-        font-family="Arial, sans-serif" font-weight="bold">
-    My Tech Stack
+  <rect x="0" y="0" width="760" height="680" rx="24" fill="#0d1117"/>
+
+  <!-- HEADER -->
+  <text x="36" y="46"
+        fill="#f0f6fc"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="bold">
+    My Tools &amp; Software
   </text>
 
-  <text x="35" y="70" fill="#8b949e" font-size="13"
-        font-family="Arial, sans-serif">
-    Technologies and tools I use
+  <text x="36" y="70"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="13">
+    Software and tools I use
   </text>
 
-  <!-- JavaScript -->
-  <rect x="35" y="95" width="195" height="70" rx="12"
+
+  <!-- DEVELOPMENT -->
+  <text x="36" y="108"
+        fill="#58a6ff"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        font-weight="bold">
+    DEVELOPMENT
+  </text>
+
+  <!-- VS CODE -->
+  <rect x="36" y="120" width="165" height="48" rx="10"
         fill="#161b22" stroke="#30363d"/>
-  <rect x="50" y="110" width="40" height="40" rx="6" fill="#F7DF1E"/>
-  <text x="57" y="138" fill="#000" font-size="17"
-        font-family="Arial, sans-serif" font-weight="bold">JS</text>
-  <text x="105" y="137" fill="#fff" font-size="14"
-        font-family="Arial, sans-serif" font-weight="bold">JavaScript</text>
+  <rect x="48" y="130" width="28" height="28" rx="6"
+        fill="#007acc"/>
+  <text x="53" y="149" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="10" font-weight="bold">VS</text>
+  <text x="87" y="150" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">VS Code</text>
 
-  <!-- Astro -->
-  <rect x="250" y="95" width="195" height="70" rx="12"
+  <!-- GITHUB -->
+  <rect x="210" y="120" width="165" height="48" rx="10"
         fill="#161b22" stroke="#30363d"/>
-  <rect x="265" y="110" width="40" height="40" rx="6" fill="#FF5D01"/>
-  <text x="276" y="138" fill="#fff" font-size="18"
-        font-family="Arial, sans-serif" font-weight="bold">A</text>
-  <text x="320" y="137" fill="#fff" font-size="14"
-        font-family="Arial, sans-serif" font-weight="bold">Astro</text>
+  <circle cx="234" cy="144" r="14" fill="#ffffff"/>
+  <text x="226" y="149" fill="#0d1117"
+        font-family="Arial, sans-serif"
+        font-size="9" font-weight="bold">GH</text>
+  <text x="259" y="150" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">GitHub</text>
 
-  <!-- HTML -->
-  <rect x="465" y="95" width="200" height="70" rx="12"
+  <!-- NETLIFY -->
+  <rect x="384" y="120" width="165" height="48" rx="10"
         fill="#161b22" stroke="#30363d"/>
-  <rect x="480" y="110" width="40" height="40" rx="6" fill="#E34F26"/>
-  <text x="487" y="138" fill="#fff" font-size="13"
-        font-family="Arial, sans-serif" font-weight="bold">&lt;/&gt;</text>
-  <text x="535" y="137" fill="#fff" font-size="14"
-        font-family="Arial, sans-serif" font-weight="bold">HTML</text>
+  <rect x="396" y="130" width="28" height="28" rx="6"
+        fill="#00c7b7"/>
+  <text x="402" y="149" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="11" font-weight="bold">N</text>
+  <text x="436" y="150" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Netlify</text>
 
-  <!-- CSS -->
-  <rect x="35" y="185" width="195" height="70" rx="12"
+  <!-- SUPABASE -->
+  <rect x="558" y="120" width="166" height="48" rx="10"
         fill="#161b22" stroke="#30363d"/>
-  <rect x="50" y="200" width="40" height="40" rx="6" fill="#1572B6"/>
-  <text x="56" y="227" fill="#fff" font-size="13"
-        font-family="Arial, sans-serif" font-weight="bold">CSS</text>
-  <text x="105" y="227" fill="#fff" font-size="14"
-        font-family="Arial, sans-serif" font-weight="bold">CSS</text>
+  <rect x="570" y="130" width="28" height="28" rx="6"
+        fill="#3ecf8e"/>
+  <text x="575" y="149" fill="#0d1117"
+        font-family="Arial, sans-serif"
+        font-size="9" font-weight="bold">SB</text>
+  <text x="610" y="150" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Supabase</text>
 
-  <!-- GitHub -->
-  <rect x="250" y="185" width="195" height="70" rx="12"
+
+  <!-- DESIGN -->
+  <text x="36" y="200"
+        fill="#a371f7"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        font-weight="bold">
+    DESIGN &amp; CREATIVE
+  </text>
+
+  <!-- FIGMA -->
+  <rect x="36" y="212" width="165" height="48" rx="10"
         fill="#161b22" stroke="#30363d"/>
-  <circle cx="285" cy="220" r="20" fill="#f0f6fc"/>
-  <text x="273" y="227" fill="#0d1117" font-size="14"
-        font-family="Arial, sans-serif" font-weight="bold">GH</text>
-  <text x="320" y="227" fill="#fff" font-size="14"
-        font-family="Arial, sans-serif" font-weight="bold">GitHub</text>
+  <circle cx="51" cy="224" r="6" fill="#f24e1e"/>
+  <circle cx="63" cy="224" r="6" fill="#ff7262"/>
+  <circle cx="51" cy="236" r="6" fill="#a259ff"/>
+  <circle cx="63" cy="236" r="6" fill="#1abcfe"/>
+  <circle cx="63" cy="248" r="6" fill="#0acf83"/>
+  <text x="87" y="241" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Figma</text>
 
-  <!-- VS Code -->
-  <rect x="465" y="185" width="200" height="70" rx="12"
+  <!-- ADOBE CREATIVE CLOUD -->
+  <rect x="210" y="212" width="165" height="48" rx="10"
         fill="#161b22" stroke="#30363d"/>
-  <rect x="480" y="200" width="40" height="40" rx="6" fill="#007ACC"/>
-  <text x="487" y="227" fill="#fff" font-size="13"
-        font-family="Arial, sans-serif" font-weight="bold">VS</text>
-  <text x="535" y="227" fill="#fff" font-size="14"
-        font-family="Arial, sans-serif" font-weight="bold">VS Code</text>
+  <rect x="222" y="222" width="28" height="28" rx="6"
+        fill="#ff0000"/>
+  <text x="227" y="241" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="9" font-weight="bold">CC</text>
+  <text x="260" y="241" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="11" font-weight="bold">Creative Cloud</text>
 
-  <!-- Figma -->
-  <rect x="35" y="275" width="195" height="70" rx="12"
+  <!-- PHOTOSHOP -->
+  <rect x="384" y="212" width="165" height="48" rx="10"
         fill="#161b22" stroke="#30363d"/>
+  <rect x="396" y="222" width="28" height="28" rx="6"
+        fill="#001e36"/>
+  <text x="402" y="241" fill="#31a8ff"
+        font-family="Arial, sans-serif"
+        font-size="11" font-weight="bold">Ps</text>
+  <text x="436" y="241" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Photoshop</text>
 
-  <circle cx="65" cy="300" r="10" fill="#F24E1E"/>
-  <circle cx="85" cy="300" r="10" fill="#FF7262"/>
-  <circle cx="65" cy="320" r="10" fill="#A259FF"/>
-  <circle cx="85" cy="320" r="10" fill="#1ABCFE"/>
-  <circle cx="85" cy="300" r="10" fill="#0ACF83"/>
-
-  <text x="110" y="317" fill="#fff" font-size="14"
-        font-family="Arial, sans-serif" font-weight="bold">Figma</text>
-
-  <!-- Illustrator -->
-  <rect x="250" y="275" width="195" height="70" rx="12"
+  <!-- ILLUSTRATOR -->
+  <rect x="558" y="212" width="166" height="48" rx="10"
         fill="#161b22" stroke="#30363d"/>
-  <rect x="265" y="290" width="40" height="40" rx="6" fill="#330000"/>
-  <text x="275" y="318" fill="#FF9A00" font-size="18"
-        font-family="Arial, sans-serif" font-weight="bold">Ai</text>
-  <text x="320" y="317" fill="#fff" font-size="14"
-        font-family="Arial, sans-serif" font-weight="bold">Illustrator</text>
+  <rect x="570" y="222" width="28" height="28" rx="6"
+        fill="#330000"/>
+  <text x="576" y="241" fill="#ff9a00"
+        font-family="Arial, sans-serif"
+        font-size="10" font-weight="bold">Ai</text>
+  <text x="610" y="241" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="12" font-weight="bold">Illustrator</text>
 
-  <!-- Photoshop -->
-  <rect x="465" y="275" width="200" height="70" rx="12"
+
+  <!-- AFTER EFFECTS -->
+  <rect x="36" y="272" width="165" height="48" rx="10"
         fill="#161b22" stroke="#30363d"/>
-  <rect x="480" y="290" width="40" height="40" rx="6" fill="#001E36"/>
-  <text x="488" y="318" fill="#31A8FF" font-size="17"
-        font-family="Arial, sans-serif" font-weight="bold">Ps</text>
-  <text x="535" y="317" fill="#fff" font-size="14"
-        font-family="Arial, sans-serif" font-weight="bold">Photoshop</text>
+  <rect x="48" y="282" width="28" height="28" rx="6"
+        fill="#1b0b3a"/>
+  <text x="52" y="301" fill="#9999ff"
+        font-family="Arial, sans-serif"
+        font-size="9" font-weight="bold">Ae</text>
+  <text x="87" y="301" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="12" font-weight="bold">After Effects</text>
+
+  <!-- CANVA -->
+  <rect x="210" y="272" width="165" height="48" rx="10"
+        fill="#161b22" stroke="#30363d"/>
+  <circle cx="234" cy="296" r="14" fill="#7d2ae8"/>
+  <text x="229" y="301" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="11" font-weight="bold">C</text>
+  <text x="260" y="301" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Canva</text>
+
+
+  <!-- MICROSOFT -->
+  <text x="36" y="352"
+        fill="#00a4ef"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        font-weight="bold">
+    MICROSOFT
+  </text>
+
+  <!-- WORD -->
+  <rect x="36" y="364" width="165" height="48" rx="10"
+        fill="#161b22" stroke="#30363d"/>
+  <rect x="48" y="374" width="28" height="28" rx="5"
+        fill="#185abd"/>
+  <text x="54" y="393" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="11" font-weight="bold">W</text>
+  <text x="87" y="393" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Word</text>
+
+  <!-- EXCEL -->
+  <rect x="210" y="364" width="165" height="48" rx="10"
+        fill="#161b22" stroke="#30363d"/>
+  <rect x="222" y="374" width="28" height="28" rx="5"
+        fill="#107c41"/>
+  <text x="228" y="393" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="11" font-weight="bold">X</text>
+  <text x="261" y="393" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Excel</text>
+
+  <!-- POWERPOINT -->
+  <rect x="384" y="364" width="165" height="48" rx="10"
+        fill="#161b22" stroke="#30363d"/>
+  <rect x="396" y="374" width="28" height="28" rx="5"
+        fill="#c43e1c"/>
+  <text x="402" y="393" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="11" font-weight="bold">P</text>
+  <text x="436" y="393" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="12" font-weight="bold">PowerPoint</text>
+
+  <!-- TEAMS -->
+  <rect x="558" y="364" width="166" height="48" rx="10"
+        fill="#161b22" stroke="#30363d"/>
+  <rect x="570" y="374" width="28" height="28" rx="5"
+        fill="#6264a7"/>
+  <text x="576" y="393" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="11" font-weight="bold">T</text>
+  <text x="610" y="393" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Teams</text>
+
+
+  <!-- PRODUCTIVITY -->
+  <text x="36" y="444"
+        fill="#3fb950"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        font-weight="bold">
+    PRODUCTIVITY &amp; SOCIAL
+  </text>
+
+  <!-- TRELLO -->
+  <rect x="36" y="456" width="165" height="48" rx="10"
+        fill="#161b22" stroke="#30363d"/>
+  <rect x="48" y="466" width="28" height="28" rx="5"
+        fill="#0c66e4"/>
+  <text x="54" y="485" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="11" font-weight="bold">T</text>
+  <text x="87" y="485" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Trello</text>
+
+  <!-- DISCORD -->
+  <rect x="210" y="456" width="165" height="48" rx="10"
+        fill="#161b22" stroke="#30363d"/>
+  <rect x="222" y="466" width="28" height="28" rx="7"
+        fill="#5865f2"/>
+  <text x="227" y="485" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="9" font-weight="bold">DC</text>
+  <text x="261" y="485" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Discord</text>
+
+
+  <!-- AI -->
+  <text x="36" y="536"
+        fill="#d29922"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        font-weight="bold">
+    AI
+  </text>
+
+  <!-- CHATGPT -->
+  <rect x="36" y="548" width="165" height="48" rx="10"
+        fill="#161b22" stroke="#30363d"/>
+  <rect x="48" y="558" width="28" height="28" rx="7"
+        fill="#10a37f"/>
+  <text x="53" y="577" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="9" font-weight="bold">AI</text>
+  <text x="87" y="577" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">ChatGPT</text>
+
+  <!-- CLAUDE -->
+  <rect x="210" y="548" width="165" height="48" rx="10"
+        fill="#161b22" stroke="#30363d"/>
+  <rect x="222" y="558" width="28" height="28" rx="7"
+        fill="#d97757"/>
+  <text x="227" y="577" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="9" font-weight="bold">AI</text>
+  <text x="261" y="577" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Claude</text>
+
+
+  <!-- 3D -->
+  <text x="384" y="536"
+        fill="#f78166"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        font-weight="bold">
+    3D
+  </text>
+
+  <!-- BLENDER -->
+  <rect x="384" y="548" width="165" height="48" rx="10"
+        fill="#161b22" stroke="#30363d"/>
+  <rect x="396" y="558" width="28" height="28" rx="7"
+        fill="#e87d0d"/>
+  <text x="402" y="577" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="10" font-weight="bold">B</text>
+  <text x="436" y="577" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">Blender</text>
+
+  <!-- ZBRUSH -->
+  <rect x="558" y="548" width="166" height="48" rx="10"
+        fill="#161b22" stroke="#30363d"/>
+  <rect x="570" y="558" width="28" height="28" rx="7"
+        fill="#d9a441"/>
+  <text x="575" y="577" fill="#111111"
+        font-family="Arial, sans-serif"
+        font-size="9" font-weight="bold">ZB</text>
+  <text x="610" y="577" fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="13" font-weight="bold">ZBrush</text>
 
 </svg>
