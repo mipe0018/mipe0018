@@ -1,4 +1,4 @@
-## Hi there I'm Mitzie Petersen!
+## Hi I'm Mitzie Petersen!
 
  Multimediedesign · Web Development · Digital Design 
 
