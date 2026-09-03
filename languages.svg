@@ -87,14 +87,14 @@
   <rect x="120" y="207" width="300" height="18" rx="9"
         fill="#21262d"/>
 
-  <rect x="120" y="207" width="120" height="18" rx="9"
+  <rect x="120" y="207" width="60" height="18" rx="9"
         fill="#ff5d01"/>
 
   <text x="435" y="220"
         fill="#ff5d01"
         font-size="14"
         font-family="Arial, sans-serif">
-    40%
+    20%
   </text>
 
 </svg>
