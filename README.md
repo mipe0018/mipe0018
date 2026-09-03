@@ -8,9 +8,9 @@ I'm currently studying Multimediedesign and learning more about web development,
 
 <img src="./language-stats.svg" alt="Most Used Languages">
 
-<p align="center">
+<!--<p align="center">
   <img src="./tools.svg" width="700" alt="My Developer Toolkit">
-</p>
+</p>-->
 <!--
 **mipe0018/mipe0018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
