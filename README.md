@@ -1,12 +1,10 @@
 ## Hi I'm Mitzie Petersen!
 
- Multimediedesign · Web Development · Digital Design 
+Multimediedesign · Web Development · Digital Design
 
-Welcome to my little corner of GitHub! 
+Welcome to my little corner of GitHub!
 
 I'm currently studying Multimediedesign and learning more about web development, UX/UI and digital design.
-
-
 
 ## My Most Used Languages
 
@@ -17,12 +15,9 @@ I'm currently studying Multimediedesign and learning more about web development,
 ## My Tech Stack
 
 <p align="center">
-  <img
-    src="./tools.svg?v=5"
-    alt="My Tools & Software"
-    width="760"
-  />
+  <img src="./tools.svg" width="760" alt="My Tools & Software">
 </p>
+
 
 <!--
 **mipe0018/mipe0018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
