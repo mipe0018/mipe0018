@@ -14,7 +14,7 @@
         fill="white"
         font-size="14"
         font-family="Arial">
-    JavaScript
+    Astro
   </text>
 
   <rect x="120" y="70" width="300" height="18" rx="9"
