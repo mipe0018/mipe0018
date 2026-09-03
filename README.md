@@ -4,7 +4,7 @@ Multimediedesign · Web Development · Digital Design
 
 Welcome to my little corner of GitHub!
 
-I'm currently studying Multimediedesign and learning more about web development, UX/UI and digital design.
+I'm currently studying Multimediadesign and learning more about web development, UX/UI and digital design.
 
 ## My Most Used Languages
 
