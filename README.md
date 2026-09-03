@@ -17,7 +17,11 @@ I'm currently studying Multimediedesign and learning more about web development,
 ## My Tech Stack
 
 <p align="center">
-  <img src="./tools.svg" width="700" alt="My Tech Stack">
+  <img
+    src="./tools.svg"
+    alt="My Tools and Software"
+    width="760"
+  />
 </p>
 
 <!--
