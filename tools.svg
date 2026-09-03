@@ -250,71 +250,87 @@
         font-size="13" font-weight="bold">Discord</text>
 
 
-  <!-- AI -->
-  <text x="36" y="536"
-        fill="#d29922"
-        font-family="Arial, sans-serif"
-        font-size="12"
-        font-weight="bold">
-    AI
-  </text>
+<!-- AI -->
+<text x="36" y="536"
+      fill="#d29922"
+      font-family="Arial, sans-serif"
+      font-size="12"
+      font-weight="bold">
+  AI
+</text>
 
-  <!-- CHATGPT -->
-  <rect x="36" y="548" width="165" height="48" rx="10"
-        fill="#161b22" stroke="#30363d"/>
-  <rect x="48" y="558" width="28" height="28" rx="7"
-        fill="#10a37f"/>
-  <text x="53" y="577" fill="#ffffff"
-        font-family="Arial, sans-serif"
-        font-size="9" font-weight="bold">AI</text>
-  <text x="87" y="577" fill="#ffffff"
-        font-family="Arial, sans-serif"
-        font-size="13" font-weight="bold">ChatGPT</text>
+<!-- ChatGPT -->
+<rect x="36" y="548" width="165" height="48" rx="10"
+      fill="#161b22" stroke="#30363d"/>
+<rect x="48" y="558" width="28" height="28" rx="7"
+      fill="#10a37f"/>
+<text x="53" y="577"
+      fill="#ffffff"
+      font-family="Arial, sans-serif"
+      font-size="9"
+      font-weight="bold">AI</text>
+<text x="87" y="577"
+      fill="#ffffff"
+      font-family="Arial, sans-serif"
+      font-size="13"
+      font-weight="bold">ChatGPT</text>
 
-  <!-- CLAUDE -->
-  <rect x="210" y="548" width="165" height="48" rx="10"
-        fill="#161b22" stroke="#30363d"/>
-  <rect x="222" y="558" width="28" height="28" rx="7"
-        fill="#d97757"/>
-  <text x="227" y="577" fill="#ffffff"
-        font-family="Arial, sans-serif"
-        font-size="9" font-weight="bold">AI</text>
-  <text x="261" y="577" fill="#ffffff"
-        font-family="Arial, sans-serif"
-        font-size="13" font-weight="bold">Claude</text>
+<!-- Claude -->
+<rect x="210" y="548" width="165" height="48" rx="10"
+      fill="#161b22" stroke="#30363d"/>
+<rect x="222" y="558" width="28" height="28" rx="7"
+      fill="#d97757"/>
+<text x="227" y="577"
+      fill="#ffffff"
+      font-family="Arial, sans-serif"
+      font-size="9"
+      font-weight="bold">AI</text>
+<text x="261" y="577"
+      fill="#ffffff"
+      font-family="Arial, sans-serif"
+      font-size="13"
+      font-weight="bold">Claude</text>
 
 
-  <!-- 3D -->
-  <text x="384" y="536"
-        fill="#f78166"
-        font-family="Arial, sans-serif"
-        font-size="12"
-        font-weight="bold">
-    3D
-  </text>
+<!-- 3D -->
+<text x="36" y="626"
+      fill="#f78166"
+      font-family="Arial, sans-serif"
+      font-size="12"
+      font-weight="bold">
+  3D &amp; MODELING
+</text>
 
-  <!-- BLENDER -->
-  <rect x="384" y="548" width="165" height="48" rx="10"
-        fill="#161b22" stroke="#30363d"/>
-  <rect x="396" y="558" width="28" height="28" rx="7"
-        fill="#e87d0d"/>
-  <text x="402" y="577" fill="#ffffff"
-        font-family="Arial, sans-serif"
-        font-size="10" font-weight="bold">B</text>
-  <text x="436" y="577" fill="#ffffff"
-        font-family="Arial, sans-serif"
-        font-size="13" font-weight="bold">Blender</text>
+<!-- Blender -->
+<rect x="36" y="638" width="165" height="48" rx="10"
+      fill="#161b22" stroke="#30363d"/>
+<rect x="48" y="648" width="28" height="28" rx="7"
+      fill="#e87d0d"/>
+<text x="54" y="667"
+      fill="#ffffff"
+      font-family="Arial, sans-serif"
+      font-size="10"
+      font-weight="bold">B</text>
+<text x="87" y="667"
+      fill="#ffffff"
+      font-family="Arial, sans-serif"
+      font-size="13"
+      font-weight="bold">Blender</text>
 
-  <!-- ZBRUSH -->
-  <rect x="558" y="548" width="166" height="48" rx="10"
-        fill="#161b22" stroke="#30363d"/>
-  <rect x="570" y="558" width="28" height="28" rx="7"
-        fill="#d9a441"/>
-  <text x="575" y="577" fill="#111111"
-        font-family="Arial, sans-serif"
-        font-size="9" font-weight="bold">ZB</text>
-  <text x="610" y="577" fill="#ffffff"
-        font-family="Arial, sans-serif"
-        font-size="13" font-weight="bold">ZBrush</text>
+<!-- ZBrush -->
+<rect x="210" y="638" width="165" height="48" rx="10"
+      fill="#161b22" stroke="#30363d"/>
+<rect x="222" y="648" width="28" height="28" rx="7"
+      fill="#d9a441"/>
+<text x="227" y="667"
+      fill="#111111"
+      font-family="Arial, sans-serif"
+      font-size="9"
+      font-weight="bold">ZB</text>
+<text x="261" y="667"
+      fill="#ffffff"
+      font-family="Arial, sans-serif"
+      font-size="13"
+      font-weight="bold">ZBrush</text>
 
 </svg>
