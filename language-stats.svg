@@ -18,10 +18,10 @@
     JavaScript
   </text>
 
-  <rect x="120" y="70" width="300" height="18" rx="9"
+  <rect x="120" y="160" width="300" height="18" rx="9"
         fill="#21262d"/>
 
-  <rect x="120" y="70" width="210" height="18" rx="9"
+  <rect x="120" y="160" width="210" height="18" rx="9"
         fill="#58a6ff"/>
 
   <text x="435" y="85"
@@ -62,10 +62,10 @@
     CSS
   </text>
 
-  <rect x="120" y="160" width="300" height="18" rx="9"
+  <rect x="120" y="70" width="300" height="18" rx="9"
         fill="#21262d"/>
 
-  <rect x="120" y="160" width="105" height="18" rx="9"
+  <rect x="120" y="70" width="105" height="18" rx="9"
         fill="#a5d6ff"/>
 
   <text x="435" y="175"
