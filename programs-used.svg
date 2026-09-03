@@ -1,160 +1,172 @@
-<svg width="700" height="430" viewBox="0 0 700 430" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="300" viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background -->
-  <rect width="700" height="430" rx="20" fill="#0d1117"/>
+  <rect width="700" height="300" rx="20" fill="#0d1117"/>
 
-  <!-- Header -->
+  <!-- Title -->
   <text x="35" y="45"
         fill="#58a6ff"
         font-size="23"
         font-family="Arial"
         font-weight="bold">
-    ⚡ My Developer Toolkit
+    ⚡ My Tech Stack
   </text>
 
   <text x="35" y="70"
         fill="#8b949e"
         font-size="13"
         font-family="Arial">
-    Tools &amp; technologies I use regularly
+    Technologies &amp; tools I enjoy working with
   </text>
 
 
-  <!-- VS CODE -->
-  <text x="35" y="110"
-        fill="#ffffff"
+  <!-- JavaScript -->
+  <rect x="35" y="95" width="195" height="70" rx="12"
+        fill="#161b22"
+        stroke="#30363d"/>
+
+  <rect x="50" y="110" width="40" height="40" rx="6"
+        fill="#f7df1e"/>
+
+  <text x="58" y="139"
+        fill="#000000"
+        font-size="19"
+        font-family="Arial"
+        font-weight="bold">
+    JS
+  </text>
+
+  <text x="105" y="137"
+        fill="white"
         font-size="14"
         font-family="Arial"
         font-weight="bold">
-    VS Code
+    JavaScript
   </text>
 
-  <text x="600" y="110"
-        fill="#58a6ff"
-        font-size="13"
-        font-family="Arial">
-    90%
-  </text>
 
-  <rect x="35" y="120" width="630" height="10" rx="5"
-        fill="#21262d"/>
+  <!-- Astro -->
+  <rect x="250" y="95" width="195" height="70" rx="12"
+        fill="#161b22"
+        stroke="#30363d"/>
 
-  <rect x="35" y="120" width="567" height="10" rx="5"
-        fill="#007acc"/>
+  <rect x="265" y="110" width="40" height="40" rx="6"
+        fill="#ff5d01"/>
 
-
-  <!-- GITHUB -->
-  <text x="35" y="160"
-        fill="#ffffff"
-        font-size="14"
+  <text x="273" y="138"
+        fill="white"
+        font-size="16"
         font-family="Arial"
         font-weight="bold">
-    GitHub
+    A
   </text>
 
-  <text x="600" y="160"
-        fill="#c9d1d9"
-        font-size="13"
-        font-family="Arial">
-    85%
-  </text>
-
-  <rect x="35" y="170" width="630" height="10" rx="5"
-        fill="#21262d"/>
-
-  <rect x="35" y="170" width="535" height="10" rx="5"
-        fill="#f0f6fc"/>
-
-
-  <!-- ASTRO -->
-  <text x="35" y="210"
-        fill="#ffffff"
+  <text x="320" y="137"
+        fill="white"
         font-size="14"
         font-family="Arial"
         font-weight="bold">
     Astro
   </text>
 
-  <text x="600" y="210"
-        fill="#ff5d01"
-        font-size="13"
-        font-family="Arial">
-    75%
-  </text>
 
-  <rect x="35" y="220" width="630" height="10" rx="5"
-        fill="#21262d"/>
-
-  <rect x="35" y="220" width="472" height="10" rx="5"
-        fill="#ff5d01"/>
-
-
-  <!-- FIGMA -->
-  <text x="35" y="260"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Arial"
-        font-weight="bold">
-    Figma
-  </text>
-
-  <text x="600" y="260"
-        fill="#a259ff"
-        font-size="13"
-        font-family="Arial">
-    65%
-  </text>
-
-  <rect x="35" y="270" width="630" height="10" rx="5"
-        fill="#21262d"/>
-
-  <rect x="35" y="270" width="410" height="10" rx="5"
-        fill="#a259ff"/>
-
-
-  <!-- DOCKER -->
-  <text x="35" y="310"
-        fill="#ffffff"
-        font-size="14"
-        font-family="Arial"
-        font-weight="bold">
-    Docker
-  </text>
-
-  <text x="600" y="310"
-        fill="#2496ed"
-        font-size="13"
-        font-family="Arial">
-    55%
-  </text>
-
-  <rect x="35" y="320" width="630" height="10" rx="5"
-        fill="#21262d"/>
-
-  <rect x="35" y="320" width="347" height="10" rx="5"
-        fill="#2496ed"/>
-
-
-  <!-- STATUS CARD -->
-  <rect x="35" y="355" width="630" height="45" rx="10"
+  <!-- HTML -->
+  <rect x="465" y="95" width="200" height="70" rx="12"
         fill="#161b22"
         stroke="#30363d"/>
 
-  <circle cx="58" cy="377" r="6" fill="#3fb950"/>
+  <rect x="480" y="110" width="40" height="40" rx="6"
+        fill="#e34c26"/>
 
-  <text x="75" y="382"
-        fill="#8b949e"
-        font-size="13"
-        font-family="Arial">
-    Currently building with
-  </text>
-
-  <text x="245" y="382"
-        fill="#ffffff"
-        font-size="13"
+  <text x="488" y="138"
+        fill="white"
+        font-size="14"
         font-family="Arial"
         font-weight="bold">
-    Astro + JavaScript + GitHub
+    &lt;/&gt;
+  </text>
+
+  <text x="535" y="137"
+        fill="white"
+        font-size="14"
+        font-family="Arial"
+        font-weight="bold">
+    HTML
+  </text>
+
+
+  <!-- CSS -->
+  <rect x="35" y="185" width="195" height="70" rx="12"
+        fill="#161b22"
+        stroke="#30363d"/>
+
+  <rect x="50" y="200" width="40" height="40" rx="6"
+        fill="#1572b6"/>
+
+  <text x="59" y="227"
+        fill="white"
+        font-size="15"
+        font-family="Arial"
+        font-weight="bold">
+    CSS
+  </text>
+
+  <text x="105" y="227"
+        fill="white"
+        font-size="14"
+        font-family="Arial"
+        font-weight="bold">
+    CSS
+  </text>
+
+
+  <!-- GitHub -->
+  <rect x="250" y="185" width="195" height="70" rx="12"
+        fill="#161b22"
+        stroke="#30363d"/>
+
+  <circle cx="285" cy="220" r="20"
+          fill="#f0f6fc"/>
+
+  <text x="276" y="227"
+        fill="#0d1117"
+        font-size="17"
+        font-family="Arial"
+        font-weight="bold">
+    GH
+  </text>
+
+  <text x="320" y="227"
+        fill="white"
+        font-size="14"
+        font-family="Arial"
+        font-weight="bold">
+    GitHub
+  </text>
+
+
+  <!-- VS Code -->
+  <rect x="465" y="185" width="200" height="70" rx="12"
+        fill="#161b22"
+        stroke="#30363d"/>
+
+  <rect x="480" y="200" width="40" height="40" rx="6"
+        fill="#007acc"/>
+
+  <text x="488" y="227"
+        fill="white"
+        font-size="14"
+        font-family="Arial"
+        font-weight="bold">
+    VS
+  </text>
+
+  <text x="535" y="227"
+        fill="white"
+        font-size="14"
+        font-family="Arial"
+        font-weight="bold">
+    VS Code
   </text>
 
 </svg>
+
