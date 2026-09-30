@@ -1,22 +1,26 @@
-<!--
-  PROGRESS I PROCENT
-
-  36% af 330px = ca. 119px = barens bredde
-
-  Hvis du vil ændre procenten senere:
-  22% = 73px
-  36% = 119px
-  48% = 158px
-  50% = 165px
-  75% = 248px
-  100% = 330px
--->
-
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="470" viewBox="0 0 600 470">
+
+  <!--
+    PROGRESS I PROCENT
+
+    Astro er sat til 36%.
+
+    36% af 330px = ca. 119px = barens bredde
+
+    Hvis du vil ændre procenten senere:
+    22% = 73px
+    36% = 119px
+    48% = 158px
+    50% = 165px
+    75% = 248px
+    100% = 330px
+  -->
 
   <rect width="600" height="470" rx="20" fill="#0d1117"/>
 
+
   <!-- HEADER -->
+
   <text x="30" y="42" fill="#f0f6fc" font-family="Arial" font-size="23" font-weight="bold">
     My Web Development Stack
   </text>
@@ -97,6 +101,82 @@
 
   <!-- FRAMEWORK -->
 
-  <text x="30" y="273" fill="#ff7b00" font-family="Arial" fo
+  <text x="30" y="273" fill="#ff7b00" font-family="Arial" font-size="11" font-weight="bold">
+    FRAMEWORK &amp; RUNTIME
+  </text>
 
 
+  <!-- Astro -->
+
+  <text x="30" y="303" fill="#ffffff" font-family="Arial" font-size="14">
+    Astro
+  </text>
+
+  <!--
+    ASTRO BAGGRUNDSBAR
+    Denne er altid 330px.
+  -->
+
+  <rect x="125" y="291" width="330" height="16" rx="8" fill="#21262d"/>
+
+  <!--
+    ASTRO PROGRESS
+
+    36% = 119px
+
+    Det er denne width-værdi,
+    der bestemmer længden på baren.
+  -->
+
+  <rect x="125" y="291" width="119" height="16" rx="8" fill="#ff5d01"/>
+
+  <!--
+    ASTRO PROCENT
+
+    Dette tal skal passe med
+    progress-barens width.
+  -->
+
+  <text x="470" y="304" fill="#ff5d01" font-family="Arial" font-size="13" font-weight="bold">
+    36%
+  </text>
+
+
+  <!-- Node.js -->
+
+  <text x="30" y="335" fill="#ffffff" font-family="Arial" font-size="14">
+    Node.js
+  </text>
+
+  <rect x="125" y="323" width="330" height="16" rx="8" fill="#21262d"/>
+
+  <rect x="125" y="323" width="56" height="16" rx="8" fill="#339933"/>
+
+  <text x="470" y="336" fill="#339933" font-family="Arial" font-size="13" font-weight="bold">
+    17%
+  </text>
+
+
+  <!-- TOOLING -->
+
+  <text x="30" y="372" fill="#a371f7" font-family="Arial" font-size="11" font-weight="bold">
+    TOOLING
+  </text>
+
+
+  <!-- npm -->
+
+  <text x="30" y="402" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">
+    npm
+  </text>
+
+  <rect x="125" y="390" width="330" height="16" rx="8" fill="#21262d"/>
+
+  <rect x="125" y="390" width="57" height="16" rx="8" fill="#cb3837"/>
+
+  <text x="470" y="403" fill="#cb3837" font-family="Arial, sans-serif" font-size="13" font-weight="bold">
+    19%
+  </text>
+
+
+</svg>
