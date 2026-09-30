@@ -1,6 +1,9 @@
 <!--
-  PROGRESS i procent
-  36% af 330px = ca. 119px. = Barens vidde
+  PROGRESS I PROCENT
+
+  36% af 330px = ca. 119px = barens bredde
+
+  Hvis du vil ændre procenten senere:
   22% = 73px
   36% = 119px
   48% = 158px
@@ -8,6 +11,7 @@
   75% = 248px
   100% = 330px
 -->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="470" viewBox="0 0 600 470">
 
   <rect width="600" height="470" rx="20" fill="#0d1117"/>
@@ -30,12 +34,15 @@
     LANGUAGES &amp; WEB
   </text>
 
+
   <!-- JavaScript -->
+
   <text x="30" y="140" fill="#ffffff" font-family="Arial" font-size="14">
     JavaScript
   </text>
 
   <rect x="125" y="128" width="330" height="16" rx="8" fill="#21262d"/>
+
   <rect x="125" y="128" width="122" height="16" rx="8" fill="#f7df1e"/>
 
   <text x="470" y="141" fill="#f7df1e" font-family="Arial" font-size="13" font-weight="bold">
@@ -44,11 +51,13 @@
 
 
   <!-- HTML -->
+
   <text x="30" y="172" fill="#ffffff" font-family="Arial" font-size="14">
     HTML
   </text>
 
   <rect x="125" y="160" width="330" height="16" rx="8" fill="#21262d"/>
+
   <rect x="125" y="160" width="172" height="16" rx="8" fill="#e34c26"/>
 
   <text x="470" y="173" fill="#e34c26" font-family="Arial" font-size="13" font-weight="bold">
@@ -57,11 +66,13 @@
 
 
   <!-- CSS -->
+
   <text x="30" y="204" fill="#ffffff" font-family="Arial" font-size="14">
     CSS
   </text>
 
   <rect x="125" y="192" width="330" height="16" rx="8" fill="#21262d"/>
+
   <rect x="125" y="192" width="224" height="16" rx="8" fill="#1572b6"/>
 
   <text x="470" y="205" fill="#1572b6" font-family="Arial" font-size="13" font-weight="bold">
@@ -70,11 +81,13 @@
 
 
   <!-- JSON -->
+
   <text x="30" y="236" fill="#ffffff" font-family="Arial" font-size="14">
     JSON
   </text>
 
   <rect x="125" y="224" width="330" height="16" rx="8" fill="#21262d"/>
+
   <rect x="125" y="224" width="46" height="16" rx="8" fill="#8b949e"/>
 
   <text x="470" y="237" fill="#8b949e" font-family="Arial" font-size="13" font-weight="bold">
@@ -84,104 +97,6 @@
 
   <!-- FRAMEWORK -->
 
-  <text x="30" y="273" fill="#ff7b00" font-family="Arial" font-size="11" font-weight="bold">
-    FRAMEWORK &amp; RUNTIME
-  </text>
-
-```svg
-<!-- Astro -->
-<text x="30" y="303" fill="#ffffff" font-family="Arial" font-size="14">
-  Astro
-</text>
-
-<!--
-  BAGGRUNDSBAREN
-  Denne er altid 330px bred og skal IKKE ændres.
--->
-<rect
-  x="125"
-  y="291"
-  width="330"
-  height="16"
-  rx="8"
-  fill="#21262d"
-/>
-
-
-<rect
-  x="125"
-  y="291"
-  width="119" <!--Denne ændre barens vidde-->
-  height="16"
-  rx="8"
-  fill="#ff5d01"
-/>
-
-<!--
-  PROCENTTEKST
-  Huskdenneændrer barens width.
--->
-<text
-  x="470"
-  y="304"
-  fill="#ff5d01"
-  font-family="Arial"
-  font-size="13"
-  font-weight="bold"
->
-  36%
-</text>
-
-
-
-  <!-- Node.js -->
-  <text x="30" y="335" fill="#ffffff" font-family="Arial" font-size="14">
-    Node.js
-  </text>
-
-  <rect x="125" y="323" width="330" height="16" rx="8" fill="#21262d"/>
-  <rect x="125" y="323" width="56" height="16" rx="8" fill="#339933"/>
-
-  <text x="470" y="336" fill="#339933" font-family="Arial" font-size="13" font-weight="bold">
-    17%
-  </text>
-
-
-  <!-- TOOLING -->
-
-  <text x="30" y="372" fill="#a371f7" font-family="Arial" font-size="11" font-weight="bold">
-    TOOLING
-  </text>
-
-<!-- NPM -->
-<text x="30" y="402"
-      fill="#ffffff"
-      font-family="Arial, sans-serif"
-      font-size="14">
-  npm
-</text>
-
-<rect x="125" y="390"
-      width="330"
-      height="16"
-      rx="8"
-      fill="#21262d"/>
-
-<rect x="125" y="390"
-      width="57"
-      height="16"
-      rx="8"
-      fill="#cb3837"/>
-
-<text x="470" y="403"
-      fill="#cb3837"
-      font-family="Arial, sans-serif"
-      font-size="13"
-      font-weight="bold">
-  19%
-</text>
-
-
-</svg>
+  <text x="30" y="273" fill="#ff7b00" font-family="Arial" fo
 
 
